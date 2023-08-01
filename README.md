@@ -52,7 +52,7 @@ I would like to follow with these design guidelines, including:
 - Colors
 - Typography: font face, size and weight
 - Layout: composition and space between elements
-- 
+  
 <p align="center">
   <img src="./public/metrics_app.png" alt="Free-PC-Games-Rep" width="700px" />
 </p>
