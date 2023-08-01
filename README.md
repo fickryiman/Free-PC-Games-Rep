@@ -176,7 +176,7 @@ Create components inside of the /components directory:
 ### Key Features <a name="key-features"></a>
 
 - display a list of games 
-- display a air quality and weather informations based on selected game
+- filtering informations based on selected game text
 - single page apps (SPA)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
