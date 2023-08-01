@@ -21,6 +21,7 @@ Free-PC-Games-Rep is a Single Page Application that shows the current trending f
     - [Tools i have used for this project ](#tools-i-have-used-for-this-project-)
     - [Key Features ](#key-features-)
   - [🚀 Live Demo ](#-live-demo-)
+    - [Live Preview](#live-preview)
   - [💻 Getting Started ](#-getting-started-)
     - [Prerequisites](#prerequisites)
     - [Setup](#setup)
@@ -70,7 +71,7 @@ Mobile Version:
 </p>
 
 ### Projects list
-I will making "Free-PC-Games-Rep" use of React, Redux and consume API data from ![Free To Game](https://www.freetogame.com/)
+I will making "Free-PC-Games-Rep" use of React, Redux and consume API data from [Free To Game](https://www.freetogame.com/)
 
 I will breakdown the projects that will guide me through the small steps each days. here the details about each of the work steps in the upcoming week.
 
@@ -184,9 +185,12 @@ Create components inside of the /components directory:
 ## 🚀 Live Demo <a name=""></a>
 
 <!-- > Add a link to your deployed project. -->
-- Click the following url for [... Live Demo ...]()
+- Click the following url for [... Live Demo ...](https://free-pc-games.onrender.com)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+### Live Preview
+[![Watch the video](https://cdn.loom.com/sessions/thumbnails/7ad978a0fbca41acb568dd537ed9b344-with-play.gif)](https://www.loom.com/embed/7ad978a0fbca41acb568dd537ed9b344)
 
 <!-- GETTING STARTED -->
 ## 💻 Getting Started <a name="getting-started"></a>
@@ -312,9 +316,9 @@ Credits and Thanks to:
 - Allah for the everythings, Alhamdulillah.
 - My Families for all of the supports.
 - Microverse for all of the experiences, lessons, projects.
-- ![Nelson Sakwa](https://www.behance.net/sakwadesignstudio/) for the website template design that inspired.
-- ![FreeToGame](https://www.freetogame.com/) for the games data and other important informations.
-- ![Flaticon](https://www.flaticon.com/) for the icons.
+- [Nelson Sakwa](https://www.behance.net/sakwadesignstudio/) for the website template design that inspired.
+- [FreeToGame](https://www.freetogame.com/) for the games data and other important informations.
+- [Flaticon](https://www.flaticon.com/) for the icons.
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -338,7 +342,7 @@ Credits and Thanks to:
 <!-- LICENSE -->
 ## 📝 License <a name="license"></a>
 
-This project is [Creative Commons 1.0 Universal License](./LICENSE) licensed.
+This project is [MIT](./LICENSE) licensed.
 
 <!-- Creative Commons License - Start -->
 <!-- Shield: [![CC BY 4.0][cc-by-shield]][cc-by]
