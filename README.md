@@ -56,7 +56,18 @@ I would like to follow with these design guidelines, including:
   <img src="./public/metrics_app.png" alt="Free-PC-Games-Rep" width="700px" />
 </p>
 
-original design idea by ![Nelson Sakwa on Behance](https://www.behance.net/gallery/31579789/Ballhead-App-(Free-PSDs))
+original design idea by [Nelson Sakwa on Behance](https://www.behance.net/gallery/31579789/Ballhead-App-(Free-PSDs))
+
+And here is my design for this project:
+Desktop Version:
+<p align="center">
+  <img src="./public/desktop-version.png" alt="Free-PC-Games" width="700px" />
+</p>
+
+Mobile Version:
+<p align="center">
+  <img src="./public/mobile-version.png" alt="Free-PC-Games" width="700px" />
+</p>
 
 ### Projects list
 I will making "Free-PC-Games-Rep" use of React, Redux and consume API data from ![Free To Game](https://www.freetogame.com/)
@@ -83,6 +94,7 @@ Install [React Router V6](https://reactrouter.com/en/main/start/tutorial#setup)
 [Setup router](https://reactrouter.com/en/main/start/tutorial#adding-a-router) inside of <App>
 Add 3 routes in this application, each should render a pages components:
  - /
+ - /game details
  - /about me
  - /references
 
@@ -196,7 +208,7 @@ In order to run this project you need:
 Clone this repository to your desired folder:
 
 ```sh
-  cd bookstore-cms
+  cd free-pc-games-rep
   git git@github.com:fickryiman/Free-PC-Games-Rep.git
 ```
 
@@ -206,7 +218,7 @@ Clone this repository to your desired folder:
 Install this project with:
 
 ```sh
-  cd bookstore-cms
+  cd free-pc-games-rep
   npm install
 ```
 
